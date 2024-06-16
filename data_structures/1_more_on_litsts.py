@@ -34,7 +34,7 @@ print('index: ', index)
 list.append(1)
 print('count: ', list.count(1), 'list: ', list)
 
-list.sort()  # built-in library 참조
+list.sort()  # https://docs.python.org/3/library/intro.html 참조
 print('sort: ', list)
 
 list.reverse()
